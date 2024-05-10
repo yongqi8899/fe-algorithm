@@ -1,7 +1,7 @@
 /*
  * @lc app=leetcode.cn id=2 lang=javascript
  *
- * [2] 两数相加
+ * [2] 两数相加,怎么用
  */
 
 
